@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1635251586 source:/home/whosethenerd/Codeblocks Projects/Primes/main.c
+	<stdio.h>
+	<stdlib.h>
+	<inttypes.h>
+	<string.h>
+	<stdbool.h>
+	<math.h>
+	<time.h>
+	"primes_list.h"
+	"boolean_vector.h"
+
+1634984176 source:/home/whosethenerd/Codeblocks Projects/Primes/primes_list.c
+	"primes_list.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1634984014 /home/whosethenerd/Codeblocks Projects/Primes/primes_list.h
+	<inttypes.h>
+
+1634984646 source:/home/whosethenerd/Codeblocks Projects/Primes/boolean_vector.c
+	"boolean_vector.h"
+	<stdlib.h>
+	<string.h>
+
+1634984607 /home/whosethenerd/Codeblocks Projects/Primes/boolean_vector.h
+	<inttypes.h>
+	<stdbool.h>
+
+1634979703 /home/whosethenerd/Codeblocks Projects/Primes/common_types.h
+
